@@ -1,0 +1,92 @@
+export const portfolioCategories = [
+  { id: "all", label: "全部作品" },
+  { id: "cake", label: "客製化蛋糕" },
+  { id: "candy", label: "牛渣糖" },
+];
+
+export const portfolioItems = [
+  {
+    id: 1,
+    name: "草莓奶油生日蛋糕",
+    category: "cake",
+    image: "",
+    description: "可依慶生主題調整色系與祝福文字，適合家庭聚會。",
+  },
+  {
+    id: 2,
+    name: "粉色花束造型蛋糕",
+    category: "cake",
+    image: "",
+    description: "以柔和擠花搭配立體層次，適合送禮與拍照紀念。",
+  },
+  {
+    id: 3,
+    name: "簡約奶霜客製蛋糕",
+    category: "cake",
+    image: "",
+    description: "適合喜歡乾淨視覺風格的客人，整體表現偏細緻耐看。",
+  },
+  {
+    id: 4,
+    name: "派對主題造型蛋糕",
+    category: "cake",
+    image: "",
+    description: "可依角色或活動主題發想，讓整體更有記憶點。",
+  },
+  {
+    id: 5,
+    name: "抓周紀念蛋糕",
+    category: "cake",
+    image: "",
+    description: "適合寶寶抓周或週歲活動，造型與色調可做溫柔調整。",
+  },
+  {
+    id: 6,
+    name: "節慶禮盒蛋糕",
+    category: "cake",
+    image: "",
+    description: "適合母親節、父親節或節日送禮，也可加入品牌元素。",
+  },
+  {
+    id: 7,
+    name: "手工牛渣糖禮盒 A 款",
+    category: "candy",
+    image: "",
+    description: "適合年節分享與企業送禮，單顆包裝方便分送。",
+  },
+  {
+    id: 8,
+    name: "手工牛渣糖禮盒 B 款",
+    category: "candy",
+    image: "",
+    description: "維持經典口感與清爽甜度，適合日常回購與節慶備貨。",
+  },
+  {
+    id: 9,
+    name: "品牌合作牛渣糖包裝",
+    category: "candy",
+    image: "",
+    description: "可搭配活動主題或企業識別，做成限定版伴手禮。",
+  },
+  {
+    id: 10,
+    name: "雙層慶生奶油蛋糕",
+    category: "cake",
+    image: "",
+    description: "適合多人慶生場合，視覺份量感更完整。",
+  },
+  {
+    id: 11,
+    name: "奶茶色系復古蛋糕",
+    category: "cake",
+    image: "",
+    description: "以低飽和色系與復古排版呈現，適合成人風格生日。",
+  },
+  {
+    id: 12,
+    name: "小型分享牛渣糖盒",
+    category: "candy",
+    image: "",
+    description: "適合少量送禮或門市陳列，也可依需求調整包裝形式。",
+  },
+];
